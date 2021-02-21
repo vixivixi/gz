@@ -3,7 +3,10 @@
 layout: post
 title:  "Welcome to Jekyll!"
 ---
-
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
