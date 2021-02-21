@@ -1,43 +1,44 @@
-## Welcome to GitHub Pages
----
-layout: post
-title:  "Welcome to Jekyll!"
----
-<ul>
+# Газгольдер с установкой (газ) | +79119252571
+
+<!-- <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
-### Markdown
+</ul> -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Осуществляем весь комплекс работ по газификации предприятий и частных домовладений.Цены от 125 т.р.
 
-```markdown
-Syntax highlighted code block
+АЙС ГАЗ - это более 10 лет работы и свыше 5000 довольных клиентов. Мы оказываем свои услуги как частным лицам, предпринимателям, так и крупным промышленным компаниям.
 
-# Header 1
-## Header 2
-### Header 3
+Преимущества работы с нами:
 
-- Bulleted
-- List
+> -   ГАРАНТИЯ 10 ЛЕТ
+> -   КРЕДИТ И РАССРОЧКА.
+> -   Большой выбор газгольдеров в наличии от 940л.
+> -   Собственное производство газгольдеров 100 % ГОСТ 8 мм сталь.
+> -   Низкие цены и гарантия качества.
+> -   Возможна доставка в любой город.
+> -   Являемся официальными дилерами.
+> -   Любая форма оплаты.
+> -   Наличие всех документов и сертификатов.
+> -   Федеральная компания, свыше 45 филиалов по всей территории России.
+> -   Заправка ГАЗгольдеров по низким ценам.
 
-1. Numbered
-2. List
+#Работайте с профессионалами!
 
-**Bold** and _Italic_ and `Code` text
+Автономная газификация! Мобильный газгольдер предназначен для отопления помещений. Устанавливается непосредственно около помещения. Данный газгольдер является наземным, и его НЕ НАДО ЗАКАПЫВАТЬ! Монтаж 1 час. Заправляется газовозом. Полностью укомплектован всей запорной арматурой и редуктором! ЗВОНИТЕ! ответим на все вопросы, рассчитаем стоимость.
 
-[Link](url) and ![Image](src)
-```
+> ### Представительство завода по производству газгольдеров - МЕДВЕДЬ в СЗФО.
+>
+> -   Сталь09г2с,
+> -   покрытие 2-х слойное ударопрочное,
+> -   антикоррозионное,
+> -   d 1250 мм.длина от 2950 мм и выше.
+>
+> ### Склад на севере Спб.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Для детального расчета можно [Написать Письмо](mailto:ice@ice07.ru).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vixivixi/gz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# +79119270440 | [Написать Письмо](mailto:ice@ice07.ru)
