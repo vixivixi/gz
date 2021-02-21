@@ -3,10 +3,13 @@
 layout: post
 title:  "Welcome to Jekyll!"
 ---
----
-layout: post
-title:  "Welcome to Jekyll!"
----
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
